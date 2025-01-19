@@ -22,5 +22,5 @@ Hello there! I'm Varun Sai, a tech enthusiast passionate about crafting innovati
 
 ### 🎨 **Profile Flair**
 
-![Profile Views](https://komarev.com/ghpvc/?username=JustVarunsai&color=black)  
+![Profile Views](https://komarev.com/ghpvc/?username=JustVarunsai&color=green)  
 
