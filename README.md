@@ -1,6 +1,5 @@
 # Hello World! 👋 I'm Varun Sai
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JustVarunsai&color=green)](https://github.com/JustVarunsai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunsaibandi/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/be_varunsai)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/be_varunsai)
@@ -50,7 +49,7 @@ I'm a passionate tech enthusiast specializing in Artificial Intelligence and Dat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustVarunsai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustVarunsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JustVarunsai&theme=dark&hide_border=false&border_radius=4.5)](https://git.io/streak-stats)
 
@@ -61,7 +60,7 @@ I'm a passionate tech enthusiast specializing in Artificial Intelligence and Dat
 ## 🤝 Let's Connect!
 I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/varunsaibandi/) or follow me on [X](https://x.com/be_varunsai)!
 
----
+
 <div align="center">
 
 ## Profile Visitors
