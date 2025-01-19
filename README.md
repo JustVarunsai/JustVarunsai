@@ -49,7 +49,7 @@ I'm a passionate tech enthusiast specializing in Artificial Intelligence and Dat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustVarunsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JustVarunsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JustVarunsai&theme=dark&hide_border=false&border_radius=4.5)](https://git.io/streak-stats)
 
