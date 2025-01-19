@@ -9,11 +9,6 @@ I'm a passionate tech enthusiast specializing in Artificial Intelligence and Dat
 
 > "Developers who wait for the perfect environment never start building" 
 
-## 🎯 What I'm Currently Working On
-- Developing AI/ML solutions for real-world problems
-- Exploring advanced deep learning architectures
-- Contributing to open-source projects
-- Enhancing my skills in cloud computing and MLOps
 
 ## 💻 Tech Stack
 
