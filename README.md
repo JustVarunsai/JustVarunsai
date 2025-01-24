@@ -62,3 +62,5 @@ I'm always interested in collaborating on innovative projects and discussing new
 ![Profile Views](https://profile-counter.glitch.me/JustVarunsai/count.svg)
 
 </div>
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
