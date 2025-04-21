@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunsaibandi/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/be_varunsai)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/be_varunsai)
 
 ## 🚀 About Me
 I'm a passionate tech enthusiast specializing in Artificial Intelligence and Data Science. With a drive for innovation, I focus on creating impactful solutions through cutting-edge technologies and collaborative development. Currently exploring the intersections of AI, machine learning, and real-world applications.
